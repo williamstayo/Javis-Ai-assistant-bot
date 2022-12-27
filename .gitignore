@@ -1,0 +1,3 @@
+#  this would ensure that we dont not push the value
+.env
+.node_modules
